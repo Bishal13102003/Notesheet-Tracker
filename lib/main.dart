@@ -379,7 +379,7 @@ class _ReviewerDashboardState extends State<ReviewerDashboard> {
                           : Colors.blue.shade100,
                     ),
                     onTap: () {
-                      // TODO: Add review or comment logic here
+                      // TODO: Add review
                     },
                   ),
                 );
